@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Tableau de bord fais avec next Js 
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Ceci est une application de tableau de bord fais avec next js en suivant un cours sur next js
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Pour plus d'information suivre le cours (https://nextjs.org/learn) 
